@@ -168,23 +168,6 @@ sub IsBlacklistedNPC {
 	   'Innoruuk',
 	   'Overseer of Air',
 	   'Master Yael',
-	   'Thunder Spirit Princess',
-	   'Noble Dojorn',
-	   'a presence',
-	   'Gwan',
-	   'Protector of Sky',
-	   'Gorgalosk',
-	   'Keeper of Souls',
-	   'The Spiroc Lord',
-	   'a spiroc vanquisher',
-	   'The Spiroc Guardian',
-	   'Bzzazzt',
-	   'Bazzzazzt',
-	   'Bizazzt',
-	   'Bzzzt',
-	   'Sister of the Spire',
-	   'Eye of Veeshan',
-	   'The Hand of Veeshan',
     
     # Kunark NPCs
 	   'Venril Sathir`s Remains',
@@ -203,6 +186,7 @@ sub IsBlacklistedNPC {
 	   'Nexona',
 	   'Phara Dar',
 	   'Faydedar',
+     'Doglin Codslayer'
 
 
       # Velious NPCs
